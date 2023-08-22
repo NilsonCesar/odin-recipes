@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 255, 114);
+}
+
+.main-title,
+.subtitle {   
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-title {
+    text-align: center;
+}
